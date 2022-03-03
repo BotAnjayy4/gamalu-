@@ -1,7 +1,7 @@
 {
-  "name": "Ndyie",
+  "name": "X2Botz",
   "version": "1.0.0",
-  "description": "YAHAHA SC NYOLONG DRI YT AOKAOK",
+  "description": "Online 24 Jam",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -54,7 +54,7 @@
   "keywords": [
     "Recode:v"
   ],
-  "author": "Ndyie-Botz",
+  "author": "Inz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Rens"
